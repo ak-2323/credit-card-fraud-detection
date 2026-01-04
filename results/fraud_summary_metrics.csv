@@ -1,0 +1,2 @@
+Accuracy,Precision,Recall,F1_Score,Total_Transactions,Total_Frauds_Actual,Total_Frauds_Predicted
+0.9996213555471413,0.9444444444444444,0.7906976744186046,0.8607594936708861,29051,43,36

@@ -1,5 +1,5 @@
 # Credit card Fraud Analytics Dashboard Using ML & Power BI
-![main_img](/assets/Fraud Analytics Dashboard Performance & Insights.jpg)
+![main_img](assets/main_img.jpg)
 
 ## Overview:
 This project delivers a machine learning–powered fraud detection system with interactive dashboards for real-time monitoring and analysis of transactions. It identifies high-risk transactions and provides actionable insights to prevent fraud.
